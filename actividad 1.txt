@@ -1,0 +1,15 @@
+ejercicio 1
+para i en rango(1,9):
+   imprimir ("*"*i)
+
+ejercicio 2
+para j en el rango (8,0. -1):
+   imprimir ("*"*j)
+
+ejercicio 3
+para k en rango (1, 10):
+    imprimir ("*"k)
+
+ejercicio 4
+para y en el rango (1,9):
+    imprimir ("*"*y)      
